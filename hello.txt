@@ -1,8 +1,5 @@
+<html>
+<body>
 
-<html here should be another fle> tag
-<<<<<<< Updated upstream
-<h1>heading</h1>
-<p class="a">helloy taam </p>
-this file is missing
-<h5>heading</h5>
-h <p>span </p>its oks eelo
+</body>
+</html>
